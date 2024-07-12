@@ -1,0 +1,97 @@
+body{
+    background-color: beige;
+  }
+  .title{
+    color:teal;
+    font-size:80px;
+    margin-left:20px;
+    margin-top:200px;
+    
+  }
+  .subtitle{
+    color:teal; 
+    font-size:35px;
+    margin-left:60px;
+    margin-top:10px;
+    
+  }
+  ul{
+    list-style-type:none;
+  }
+  li{
+    list-style:none;
+    display: inline-block;
+    padding-left:100px ;
+    margin-left: 20px;
+    font-family: 'Brush Script MT', cursive;
+    font-weight: 100px;
+  }
+  a{
+    text-decoration:none;
+    color: teal;
+    font-size: 20px;
+  }
+  .nav{
+    text-align: center;
+
+  }
+  .homeimage{
+    float: right;
+    margin-top:-250px ;
+    margin-right: 50px;
+
+  }
+  .home{
+    width: 100%;
+    height: 600px;
+  }
+  .heading{
+    font-size: 100px;
+    margin-top: 50px;
+    text-align: center;
+    background-color: teal;
+    border-style: inset;
+    border-width:0.5px ;
+    padding: 5px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(236, 234, 234);
+  }
+  .myimage{
+    border-style:inset ;
+    border-width:0.2px ;
+    border-radius: 200px;
+    width: 300px;
+    height: 300px;
+  }
+  .yourimage{
+    text-align: center;
+    margin-top: 50px;
+  }
+  .aboutmetext{
+    padding: 20px;
+    padding-left: 400px;
+    padding-right: 400px;
+    text-align: center;
+    color: rgb(4, 85, 85);
+    font-size: 20px;
+
+  }
+  .knowledge{
+    list-style: none;
+    display: inline-block;
+    padding: 30px 95px;
+
+
+
+  }
+  ul{
+    justify-content: space-between;
+  }
+  .lang{
+    text-align: center;
+    margin-left: -50px;
+    font-size: 25px;
+    color: rgb(35, 94, 94);
+    font-style: bold;
+  }
+
